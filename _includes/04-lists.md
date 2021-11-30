@@ -1,0 +1,6 @@
+- Work 9 - 5
+- Loves traveling
+- Play games
+	- Dota 2
+	- PUBG
+- Watch anime
