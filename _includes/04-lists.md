@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Work 9 - 5
+- Loves traveling
+- Play games
+	- Dota 2
+	- PUBG
+- Watch anime
